@@ -1,0 +1,17 @@
+body{
+    background-color: blue;
+}
+h1{
+    font-size: 40pix;
+color: aqua;
+text-align: center;
+}
+p{
+    font-size: 30px;
+    color:black;
+    text-align: justify;
+} 
+img{
+    width: 47%;
+    margin: 4%;
+}
